@@ -1,5 +1,6 @@
-import { Login } from './Login'
 import './App.css'
+import Login from './Login'
+
 
 function App() {
 
